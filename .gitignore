@@ -2,6 +2,13 @@
 data/
 Dataset/
 Dataset_with_Grayscale/
+HasilAugmetasi/
+Output Grayscale/
+Output/
+OutputDataset/
+OutputDataset_final_k_1_with_noise/
+Test_Output/
+output_images/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
