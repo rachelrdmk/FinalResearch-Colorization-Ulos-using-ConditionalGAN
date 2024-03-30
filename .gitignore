@@ -1,6 +1,7 @@
 # Dataset
 data/
 Dataset/
+Dataset_with_Grayscale/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
