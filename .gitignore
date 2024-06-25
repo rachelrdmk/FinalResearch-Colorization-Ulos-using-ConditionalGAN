@@ -9,6 +9,7 @@ OutputDataset/
 OutputDataset_final_k_1_with_noise/
 output_images/
 Test_Output/
+output_sadum/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
