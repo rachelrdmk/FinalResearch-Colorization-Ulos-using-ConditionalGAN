@@ -1,0 +1,16 @@
+streamlit==1.10.0
+pillow==9.2.0
+tensorflow==2.9.1
+numpy==1.23.1
+joblib
+seaborn
+matplotlib
+opencv-python
+torch
+torchvision
+tqdm
+colour-science
+scikit-image
+altair==4.2.0
+h5py
+cloudpickle
