@@ -54,7 +54,7 @@ This initialization and summary are particularly valuable for developers and res
 ## Demo
 Check out the video demo of the model below:
 
-![Watch the video](https://youtu.be/TnptLsgex_I)
+[Watch the video](https://youtu.be/TnptLsgex_I)
 
 <br> <br>
 
